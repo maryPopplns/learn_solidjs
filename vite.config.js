@@ -7,5 +7,6 @@ export default defineConfig({
     target: 'esnext',
     polyfillDynamicImport: false,
   },
-  base: '/learn_solidjs/',
+  // base: '/learn_solidjs/', for gh pages
+  // base: './', for access to index.html
 });

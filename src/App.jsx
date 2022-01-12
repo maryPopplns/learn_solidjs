@@ -6,6 +6,9 @@ function App() {
       <div>this</div>
       <div>is</div>
       <div>cool</div>
+      <div>new</div>
+      <div>new`</div>
+      <div>new</div>
     </div>
   );
 }
